@@ -39,7 +39,7 @@ streamlit run ./app/main_page.py
 
 
 ## Reference
-A chunk of codes used for this projects is taken and insipred from the following works and their related repository:
+A chunk of codes used for this projects is taken and/or insipred from the following works and their related repository:
 ```bibtex
 @inproceedings{sanh2022multitask,
     title={Multitask Prompted Training Enables Zero-Shot Task Generalization},
