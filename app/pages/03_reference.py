@@ -17,7 +17,7 @@ import streamlit as st
 st.set_page_config(layout="wide")
 st.markdown(f'<p style="text-align:center;background-image: linear-gradient(to right,#d9306e, #412f8f);color:#ffffff;font-size: 4em;;border-radius:2%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;">Reference</p>', unsafe_allow_html=True)
 
-st.markdown('### A chunk of codes used for this projects is taken and insipred from the following works and their related repository:')
+st.markdown('### A chunk of codes used for this projects is taken and/or insipred from the following works and their related repository:')
 
 st.markdown("""1. @inproceedings{sanh2022multitask,
     title={Multitask Prompted Training Enables Zero-Shot Task Generalization},
